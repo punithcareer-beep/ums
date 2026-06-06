@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KSRMMS</string>
+    <string name="title_activity_main">KSRMMS</string>
+    <string name="package_name">com.ksrmce.ums</string>
+    <string name="custom_url_scheme">com.ksrmce.ums</string>
+</resources>
